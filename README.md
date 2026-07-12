@@ -7,7 +7,7 @@
   
   <p align="center">
     <a href="https://www.linkedin.com/in/pratamasiregarpnj/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:pratamavarian@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:pratamasiregar.business@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 </div>
 
@@ -55,12 +55,12 @@ I thrive under competitive pressure and enjoy solving complex analytical puzzles
 
 ## 📁 Featured Projects
 
-### 🛡️ [Enterprise SOAR Dashboard (Automated IP Blocking)](https://github.com/Tamatimtam/LamisV2_Main) (Private Repository)
+### 🛡️ Enterprise SOAR Dashboard (Automated IP Blocking) (Private Repository)
 *Lead Systems Architect & Core Developer*
 *   **What it does:** An active-defense Security Orchestration, Automation, and Response (SOAR) control panel that aggregates security logs and automates network-level containment.
 *   **Tech Stack:** Python Flask, PostgreSQL/SQLite, Redis (caching & queueing), Wazuh Indexer & Manager API, OPNsense API, Docker.
 *   **Key Features:** Automated real-time IP threat blocking (extracts suspicious event triggers via Wazuh Indexer queries and pushes blocks to active OPNsense firewall host aliases), secure Fernet credentials vault, asynchronous celery/scheduler jobs, and multi-tenant management dashboards.
-*   🔒 **NDA Compliance:** *Source code and specific federal client details are private under non-disclosure agreements. Please [contact me directly](mailto:pratamavarian@gmail.com) for a high-level architectural walkthrough or discussion of the engineering hurdles solved.*
+*   🔒 **NDA Compliance:** *Source code and specific client/infrastructure details are private under non-disclosure agreements. Please [contact me directly](mailto:pratamasiregar.business@gmail.com) for a high-level architectural walkthrough or discussion of the engineering hurdles solved.*
 
 ### 📄 [PNJ Skripsi Page Formatter](https://github.com/Tamatimtam/pnj-skripsi-page-formatter)
 *Creator & Developer*
