@@ -55,6 +55,13 @@ I thrive under competitive pressure and enjoy solving complex analytical puzzles
 
 ## 📁 Featured Projects
 
+### 🛡️ [Enterprise SOAR Dashboard (Automated IP Blocking)](https://github.com/Tamatimtam/LamisV2_Main) (Private Repository)
+*Lead Systems Architect & Core Developer*
+*   **What it does:** An active-defense Security Orchestration, Automation, and Response (SOAR) control panel that aggregates security logs and automates network-level containment.
+*   **Tech Stack:** Python Flask, PostgreSQL/SQLite, Redis (caching & queueing), Wazuh Indexer & Manager API, OPNsense API, Docker.
+*   **Key Features:** Automated real-time IP threat blocking (extracts suspicious event triggers via Wazuh Indexer queries and pushes blocks to active OPNsense firewall host aliases), secure Fernet credentials vault, asynchronous celery/scheduler jobs, and multi-tenant management dashboards.
+*   🔒 **NDA Compliance:** *Source code and specific federal client details are private under non-disclosure agreements. Please [contact me directly](mailto:pratamavarian@gmail.com) for a high-level architectural walkthrough or discussion of the engineering hurdles solved.*
+
 ### 📄 [PNJ Skripsi Page Formatter](https://github.com/Tamatimtam/pnj-skripsi-page-formatter)
 *Creator & Developer*
 *   **What it does:** An interactive, client-side web application designed to automatically format page numbers and department footers on PDF drafts according to the official guidelines of Politeknik Negeri Jakarta (PNJ).
